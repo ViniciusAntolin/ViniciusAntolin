@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Vinicius Pires Antolin!
 
-- 🔭 Eu estou trabalhando como Analista de Suporte de Alto Nível
+- 🔭 Eu estou trabalhando como Analista de Banco de Dados
 - 🌱 Eu estou estudando C#, SQLserver para melhorar meu conhecimento técnico.
 
 <div align="center">
