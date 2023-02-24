@@ -2,6 +2,7 @@
 
 - 🔭 Eu estou trabalhando como Analista de Banco de Dados
 - 🌱 Eu estou estudando C#, SQLserver para melhorar meu conhecimento técnico.
+- 🎲 Estou adquirindo diversos conhecimentos em todos os tipos de banco de dados. Postgres, MySQL, Firebird, MongoDB e Oracle.
 
 <div align="center">
   <a href="https://github.com/ViniciusAntolin">
