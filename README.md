@@ -18,6 +18,11 @@
   
   <img align="center" alt="Vinicius-SQLs" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  
+  <img align="center" alt="Vinicius-MyS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+  
+  <img align="center" alt="Vinicius-Oracle" height="30" width="40" background="red" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+
 </div>
 
 ##
