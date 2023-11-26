@@ -1,8 +1,12 @@
 ### Oi! Eu sou o Vinicius Pires Antolin!
 
+### About Me
+
 - 🔭 Atualmente, estou trabalhando como Desenvolvedor .NET Junior.
 - 🌱 Estou estudando C# e SQL Server para aprimorar meu conhecimento técnico.
 - 🎲 Estou adquirindo conhecimentos em padrões de projetos .NET, aprofundando na linguagem C# e crescendo como desenvolvedor.
+
+### GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/ViniciusAntolin">
@@ -18,10 +22,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
   <img align="center" alt="Vinicius-Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
 
-##
+### Contact
 
 <div>
   <a href="https://www.instagram.com/vp.antolin_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-pires-antolin-a56940218/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/ViniciusAntolin/ViniciusAntolin/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+### GitHub Activity
+
+![Snake animation](https://github.com/ViniciusAntolin/ViniciusAntolin/blob/output/github-contribution-grid-snake.svg)
