@@ -17,19 +17,17 @@ Compreendendo conceitos de normalização e otimização de bancos de dados.
 
 Estudando padrões comuns, como Singleton, Factory e Observer.
 Aplicando esses padrões em meus projetos.
-**Controle de Versão (Git):
-**
+
+**Controle de Versão (Git):**
 Utilizando o Git para gerenciar versões do código.
 Criando branches, fazendo commits e resolvendo conflitos.
 Boas Práticas de Desenvolvimento:
 
-**Escrevendo código limpo e legível.
-**
+**Escrevendo código limpo e legível.**
 Seguindo convenções de nomenclatura e organização.
-Aprendizado Contínuo:
 
-**Mantendo-me atualizado com as novidades do mundo .NET.
-**
+**Aprendizado Contínuo:**
+Mantendo-me atualizado com as novidades do mundo .NET.
 Participando de comunidades online e buscando feedback.
 
 <div align="center">
