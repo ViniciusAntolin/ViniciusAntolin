@@ -9,8 +9,7 @@ Meu nome é Vinicius e sou um desenvolvedor apaixonado por tecnologia. Atualment
   - Inovafarma: Um sistema de farmácia empresarial.
 - 🌟 Habilidades além da programação: trabalho em equipe, gerenciamento de projetos e uma paixão por desafios.
 
-### GitHub Statistics
-
+### Estatisticas do GitHub
 <div align="center">
   <a href="https://github.com/ViniciusAntolin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusantolin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
   <img align="center" alt="Vinicius-Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
 
-### Contact
+### Contato
 
 <div>
   <a href="https://www.instagram.com/vp.antolin_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
