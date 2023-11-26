@@ -1,8 +1,36 @@
 ### Oi! Eu sou o Vinicius Pires Antolin!
 
-- 🔭 Eu estou trabalhando como Analista de Banco de Dados
-- 🌱 Eu estou estudando C#, SQLserver para melhorar meu conhecimento técnico.
-- 🎲 Estou adquirindo diversos conhecimentos em todos os tipos de banco de dados. Postgres, MySQL, Firebird, MongoDB e Oracle.
+- 🔭 Atualmente, estou trabalhando como Desenvolvedor .NET Junior.
+- 🌱 Estou estudando C# e SQL Server para aprimorar meu conhecimento técnico.
+- 🎲 Estou adquirindo conhecimentos em padrões de projetos .NET, aprofundando na linguagem C# e crescendo como desenvolvedor.
+### Competências
+Como um Desenvolvedor .NET Junior, estou focado em:
+**Linguagem C#:**
+
+Aprofundando meus conhecimentos em C#.
+Explorando recursos avançados, como LINQ, delegados e expressões lambda.
+**Banco de Dados e SQL Server:**
+
+Estudando modelagem de dados e consultas SQL.
+Compreendendo conceitos de normalização e otimização de bancos de dados.
+**Padrões de Projeto:**
+
+Estudando padrões comuns, como Singleton, Factory e Observer.
+Aplicando esses padrões em meus projetos.
+**Controle de Versão (Git):
+**
+Utilizando o Git para gerenciar versões do código.
+Criando branches, fazendo commits e resolvendo conflitos.
+Boas Práticas de Desenvolvimento:
+
+**Escrevendo código limpo e legível.
+**
+Seguindo convenções de nomenclatura e organização.
+Aprendizado Contínuo:
+
+**Mantendo-me atualizado com as novidades do mundo .NET.
+**
+Participando de comunidades online e buscando feedback.
 
 <div align="center">
   <a href="https://github.com/ViniciusAntolin">
