@@ -25,4 +25,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-pires-antolin-a56940218/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ViniciusAntolin/ViniciusAntolin/blob/output/github-contribution-grid-snake.svg)
