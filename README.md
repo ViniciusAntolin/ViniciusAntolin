@@ -2,12 +2,12 @@
 Meu nome é Vinicius e sou um desenvolvedor apaixonado por tecnologia. Atualmente, minha área de atuação é focada em .NET e DEVOPS, mas estou sempre buscando aprender coisas novas.
 
 ### Sobre Mim
-💻 Desenvolvedor .NET com experiência em C#, VB, JAVA e SQL.
-📊 Trabalhei com bancos de dados como SQL Server, MySQL, Firebase, Firebird e Postgres.
-🚀 Estou envolvido em dois projetos interessantes:
-BD Restore: Um projeto pessoal de restauração de banco de dados para bancos com sincronismo.
-Inovafarma: Um sistema de farmácia empresarial.
-🌟 Habilidades além da programação: trabalho em equipe, gerenciamento de projetos e uma paixão por desafios.
+- 💻 Desenvolvedor .NET com experiência em C#, VB, JAVA e SQL.
+- 📊 Trabalhei com bancos de dados como SQL Server, MySQL, Firebase, Firebird e Postgres.
+- 🚀 Estou envolvido em dois projetos interessantes:
+- BD Restore: Um projeto pessoal de restauração de banco de dados para bancos com sincronismo.
+- Inovafarma: Um sistema de farmácia empresarial.
+- 🌟 Habilidades além da programação: trabalho em equipe, gerenciamento de projetos e uma paixão por desafios.
 
 ### GitHub Statistics
 
