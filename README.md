@@ -6,36 +6,6 @@
 ### Competências
 Como um Desenvolvedor .NET Junior, estou focado em:
 
-**Linguagem C#:**
-
-Aprofundando meus conhecimentos em C#.
-Explorando recursos avançados, como LINQ, delegados e expressões lambda.
-
-**Banco de Dados e SQL Server:**
-
-Estudando modelagem de dados e consultas SQL.
-Compreendendo conceitos de normalização e otimização de bancos de dados.
-
-**Padrões de Projeto:**
-
-Estudando padrões comuns, como Singleton, Factory e Observer.
-Aplicando esses padrões em meus projetos.
-
-**Controle de Versão (Git):**
-
-Utilizando o Git para gerenciar versões do código.
-Criando branches, fazendo commits e resolvendo conflitos.
-Boas Práticas de Desenvolvimento:
-
-**Escrevendo código limpo e legível.**
-
-Seguindo convenções de nomenclatura e organização.
-
-**Aprendizado Contínuo:**
-
-Mantendo-me atualizado com as novidades do mundo .NET.
-Participando de comunidades online e buscando feedback.
-
 <div align="center">
   <a href="https://github.com/ViniciusAntolin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusantolin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
