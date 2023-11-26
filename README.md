@@ -3,8 +3,6 @@
 - 🔭 Atualmente, estou trabalhando como Desenvolvedor .NET Junior.
 - 🌱 Estou estudando C# e SQL Server para aprimorar meu conhecimento técnico.
 - 🎲 Estou adquirindo conhecimentos em padrões de projetos .NET, aprofundando na linguagem C# e crescendo como desenvolvedor.
-### Competências
-Como um Desenvolvedor .NET Junior, estou focado em:
 
 <div align="center">
   <a href="https://github.com/ViniciusAntolin">
