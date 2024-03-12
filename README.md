@@ -1,5 +1,5 @@
 ### Olá! 👋
-Meu nome é Vinicius e sou um desenvolvedor apaixonado por tecnologia. Atualmente, minha área de atuação é focada em .NET e DEVOPS, mas estou sempre buscando aprender coisas novas.
+Meu nome é Vinicius e sou um desenvolvedor apaixonado por tecnologia. Atualmente, minha área de atuação é focada em .NET e DevOps, mas estou sempre buscando aprender coisas novas.
 
 ### Sobre Mim
 - 💻 Desenvolvedor .NET com experiência em C#, VB, JAVA e SQL.
